@@ -1,7 +1,7 @@
-clone the app using the following command https://github.com/den1ohar/LinkShortner.git <br>
-create the env file <br>
-php artisan key:generate <br>
-point the DB parameteres in the .env <br>
-php artisan migrate <br>
-npm install <br>
-npm run dev <br>
+1. clone the app using the following command https://github.com/den1ohar/LinkShortner.git <br>
+2. create the env file <br>
+3. php artisan key:generate <br>
+4. point the DB parameteres in the .env <br>
+5. php artisan migrate <br>
+6. npm install <br>
+7. npm run dev <br>
